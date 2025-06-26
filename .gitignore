@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+.vscode/*
+.idea
+.DS_Store
+scripts/env
+__pycache__/
+
+# Elixir
+/_build/
+deps/
+erl_crash.dump
+.elixir_ls/
